@@ -34,31 +34,26 @@ Currently working on AI-driven applications and Scalable software architectures.
 </div>
 
 ---
+<div align="center">
 
-## Connect
+*"In the war of ego, the loser always wins"*
+
+</div>
 
 <div align="center">
 
 <a href="https://www.linkedin.com/in/noel-biju-66b7b62a8" target="_blank">
-  <img src="https://skillicons.dev/icons?i=linkedin" height="42" alt="LinkedIn"/>
+  <img src="https://skillicons.dev/icons?i=linkedin" height="22" alt="LinkedIn"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="https://x.com/noelbijuk" target="_blank">
-  <img src="https://cdn.simpleicons.org/x/ffffff" height="40" alt="X"/>
+  <img src="https://cdn.simpleicons.org/x/ffffff" height="20" alt="X"/>
 </a>
 &nbsp;&nbsp;&nbsp;&nbsp;
 
 <a href="mailto:noelbijuk@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="42" alt="Email"/>
+  <img src="https://skillicons.dev/icons?i=gmail" height="22" alt="Email"/>
 </a>
-
-</div>
-
----
-
-<div align="center">
-
-*"In the war of ego, the loser always wins"*
 
 </div>
