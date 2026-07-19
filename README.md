@@ -1,7 +1,7 @@
 
 <div align="center">
 
-# Noel Biju
+# Noel
 
 ### AI & Software Developer
 
@@ -17,7 +17,7 @@ Building intelligent applications that combine artificial intelligence with scal
 
 ## About
 
-I'm a Computer Science undergraduate focused on building practical, scalable software powered by Artificial Intelligence.
+I'm a Computer Science undergrad focused on building practical, scalable software powered by Artificial Intelligence.
 
 My interests span **Artificial Intelligence**, **Machine Learning**, **Data Science**, and **Full-Stack Development**, with a strong emphasis on creating solutions that are technically sound, scalable, and user-focused.
 
@@ -59,6 +59,6 @@ Currently building AI-powered applications and exploring scalable software syste
 
 <div align="center">
 
-*"Building software that solves real-world problems."*
+*"In the war of ego, the loser always wins"*
 
 </div>
