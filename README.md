@@ -17,11 +17,11 @@ Building intelligent applications that combine artificial intelligence with scal
 
 ## About
 
-I'm a Computer Science undergrad focused on building practical, scalable software powered by Artificial Intelligence.
+I am an undergraduate Computer Science student with an interest in developing applications using Artificial Intelligence.
 
-My interests span **Artificial Intelligence**, **Machine Learning**, **Data Science**, and **Full-Stack Development**, with a strong emphasis on creating solutions that are technically sound, scalable, and user-focused.
+I have an interest in fields such as Artificial Intelligence, Machine Learning, Data Science, and Full Stack Development, where my approach always remains technical, scalable, and user-centric.
 
-Currently building AI-powered applications and exploring scalable software systems.
+Currently working on AI-driven applications and Scalable software architectures.
 
 ---
 
